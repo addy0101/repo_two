@@ -1,8 +1,6 @@
 line one
 line two
-<<<<<<< HEAD
-=======
 b1 line three
 b1 line four
 b1 line five
->>>>>>> b1
+
